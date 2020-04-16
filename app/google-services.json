@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "217552286245",
+    "firebase_url": "https://edublog-d2fdc.firebaseio.com",
+    "project_id": "edublog-d2fdc",
+    "storage_bucket": "edublog-d2fdc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217552286245:android:055569bbf19a8f2cd185cc",
+        "android_client_info": {
+          "package_name": "com.ajndroid.edublog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217552286245-umjqbi4pqds5l4prkjus3ct0cb31957f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHI0EWYnEc7qjnMokWiPnyF13MHX157mg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217552286245-umjqbi4pqds5l4prkjus3ct0cb31957f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
